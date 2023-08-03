@@ -132,11 +132,6 @@ a .fab {
   text-transform: capitalize;
 }
 
-.school span, .job-title span {
-  color: #889499;
-  text-decoration: underline;
-}
-
 ul.job-description li:before{
   content: "✔";
   padding-right: 0.5em;
