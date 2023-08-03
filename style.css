@@ -7,6 +7,10 @@ body {
   line-height: 1.8em;
 }
 
+div.job-title span {
+  font-weight: bold;
+  color: #509e98;
+}
 a {
   color: #1C9C94;
   text-decoration: none;
